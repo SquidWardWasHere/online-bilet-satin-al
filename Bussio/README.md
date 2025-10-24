@@ -37,7 +37,7 @@ Modern web teknolojileri kullanılarak geliştirilmiş, güvenli ve kullanıcı 
 
 - **Backend:** PHP 8.2
 - **Database:** SQLite 3
-- **Frontend:** HTML5, CSS3, Vanilla JavaScript
+- **Frontend:** HTML5, CSS3
 - **Containerization:** Docker & Docker Compose
 - **Web Server:** Apache 2.4
 
