@@ -1,0 +1,6 @@
+<!-- Metro Turizm Logo -->
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="100" viewBox="0 0 200 100">
+  <rect width="200" height="100" fill="#e74c3c"/>
+  <text x="100" y="55" font-family="Arial Black" font-size="32" fill="#fff" text-anchor="middle" font-weight="bold">METRO</text>
+  <text x="100" y="75" font-family="Arial" font-size="14" fill="#fff" text-anchor="middle">TURİZM</text>
+</svg>

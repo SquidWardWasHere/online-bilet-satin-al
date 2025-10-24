@@ -1,0 +1,15 @@
+# Image Assets Directory
+
+Place company logos and other images in this directory.
+
+## Expected Files:
+- default-company.png - Default company logo
+- metro.png - Metro Turizm logo
+- pamukkale.png - Pamukkale logo
+- kamilkoc.png - Kamil Koç logo
+
+## Image Specifications:
+- Format: PNG (recommended) or JPG
+- Size: Recommended 200x100px
+- Max file size: 500KB
+- Transparent background for logos

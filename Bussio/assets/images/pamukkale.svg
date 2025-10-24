@@ -1,0 +1,6 @@
+<!-- Pamukkale Logo -->
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="100" viewBox="0 0 200 100">
+  <rect width="200" height="100" fill="#27ae60"/>
+  <text x="100" y="55" font-family="Arial Black" font-size="28" fill="#fff" text-anchor="middle" font-weight="bold">PAMUKKALE</text>
+  <text x="100" y="75" font-family="Arial" font-size="12" fill="#fff" text-anchor="middle">TURİZM</text>
+</svg>
