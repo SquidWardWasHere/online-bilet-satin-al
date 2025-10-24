@@ -54,7 +54,7 @@ Veri Yönetimi: Veritabanı işlemleri, yedekleme ve raporlama
 | :------------------- | :---------------------- |
 | **Backend**          | PHP 8.x                 |
 | **Veritabanı**       | SQLite                  |
-| **Frontend**         | HTML5, CSS3, JavaScript |
+| **Frontend**         | HTML5, CSS3 |
 | **Containerization** | Docker & Docker Compose |
 | **Web Sunucusu**     | Apache                  |
 
