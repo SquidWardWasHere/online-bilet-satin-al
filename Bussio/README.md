@@ -198,13 +198,6 @@ rm -rf database/
 docker-compose restart
 ```
 
-### Port 8080 kullanımda
-```yaml
-# docker-compose.yml dosyasında port'u değiştirin
-ports:
-  - "8090:80"  # 8080 yerine 8090 kullanın
-```
-
 ## 📝 Lisans
 
 MIT License
