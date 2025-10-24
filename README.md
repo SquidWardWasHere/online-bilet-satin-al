@@ -46,7 +46,9 @@ Veri Yönetimi: Veritabanı işlemleri, yedekleme ve raporlama
 📱 Kullanım Senaryoları
 
 Bilet Satın Alma: Kullanıcı olarak giriş yap, sefer ara, koltuğunu seç ve biletini satın al.
+
 Sefer Yönetimi: Firma yetkilisi olarak yeni sefer ekle, otobüs düzenini yönet.
+
 Sistem Yönetimi: Admin olarak kullanıcı, firma ve genel sistem süreçlerini kontrol et.
 
 
