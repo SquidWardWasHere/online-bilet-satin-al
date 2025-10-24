@@ -8,6 +8,7 @@ BİLETİM, kullanıcıların online olarak otobüs bileti satın alabileceği, f
 Proje, PHP, SQLite ve Docker teknolojileri kullanılarak geliştirilmiştir.
 
 ✨ Özellikler
+
 👥 Kullanıcı Özellikleri
 
 Hesap Yönetimi: Kayıt olma, giriş yapma ve profil bilgilerini güncelleme işlemleri
