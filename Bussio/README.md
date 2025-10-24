@@ -53,7 +53,7 @@ Modern web teknolojileri kullanılarak geliştirilmiş, güvenli ve kullanıcı 
 
 1. **Projeyi Klonlayın:**
 ```bash
-git clone https://github.com/SquidWardWasHere/online-bilet-satin-al/
+git clone https://github.com/SquidWardWasHere/online-bilet-satin-al.git
 cd bussio
 ```
 
@@ -220,14 +220,4 @@ Hasan Ali Kahraman
 3. Değişikliklerinizi commit edin (`git commit -m 'Add amazing feature'`)
 4. Branch'inizi push edin (`git push origin feature/amazing-feature`)
 5. Pull Request oluşturun
-
-Detaylı bilgi için [CONTRIBUTING.md](CONTRIBUTING.md) dosyasına bakın.
-
-## 📞 İletişim
-
-Sorularınız için [GitHub Issues](https://github.com/SquidWardWasHere/online-bilet-satin-al/issues) açabilirsiniz.
-
----
-
-**Not:** Bu proje Siber Vatan Yavuzlar takımınına görev amaçlı geliştirilmiş bir web uygulamasıdır.
 
