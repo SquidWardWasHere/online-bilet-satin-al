@@ -11,7 +11,7 @@ Proje, PHP, SQLite ve Docker teknolojileri kullanılarak geliştirilmiştir.
 
 👥Kullanıcı rolleri (admin/firma-admin/user)
 
-| # | Özellik Adı       |
+| # | Kullanıcı Özellikleri|
 | - | ----------------- |
 | 1 | Hesap Yönetimi    |
 | 2 | Sefer Arama       |
