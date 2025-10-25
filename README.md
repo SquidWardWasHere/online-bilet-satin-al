@@ -13,21 +13,21 @@ Proje, PHP, SQLite ve Docker teknolojileri kullanılarak geliştirilmiştir.
 
 👤 Kullanıcı Özellikleri
 
-●  Hesap Yönetimi: Kayıt olma, giriş yapma ve profil bilgilerini güncelleme işlemleri
+●  Hesap Yönetimi
 
-●  Sefer Arama: Kalkış – varış noktası ve tarih kriterlerine göre uygun sefer arama
+●  Sefer Arama
 
-●  Koltuk Seçimi: Dinamik koltuk planı üzerinden koltuk seçimi
+●  Koltuk Seçimi
 
-●  Cinsiyet Kontrolü: Farklı cinsiyet yolcuların yan yana oturmasını önleyen sistem
+●  Cinsiyet Kontrolü
 
-●  Bilet Satın Alma: Güvenli ödeme işlemleriyle bilet oluşturma
+●  Bilet Satın Alma
 
-●  PDF Bilet İndirme: Satın alınan biletlerin PDF formatında çıktısının alınabilmesi
+●  PDF Bilet İndirme
 
-●  Bilet Geçmişi: Önceki biletlerin görüntülenmesi
+●  Bilet Geçmişi
 
-●  Bakiye Yönetimi: Hesap bakiyesi görüntüleme ve yönetme özellikleri
+●  Bakiye Yönetimi
 
 🏢 Firma Yetkilisi Özellikleri
 
