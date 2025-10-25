@@ -7,41 +7,48 @@ Bu proje, "Otobüs Bileti Satın Alma Web Uygulaması" Siber Vatan Yavuzlar tak�
 BİLETİM, kullanıcıların online olarak otobüs bileti satın alabileceği, firmalar için özel yönetim panelleri ve admin kontrol arayüzü barındıran kapsamlı bir bilet satış sistemidir.
 Proje, PHP, SQLite ve Docker teknolojileri kullanılarak geliştirilmiştir.
 
-🚀 Özellikler
+✨ Özellikler
 
-👥 Kullanıcı Rolleri:
+👥Kullanıcı rolleri (admin/firma-admin/user)
 
-Admin
+👥 Kullanıcı Özellikleri
 
-Firma Admini
+Hesap Yönetimi: Kayıt olma, giriş yapma ve profil bilgilerini güncelleme işlemleri
 
-User
+Sefer Arama: Kalkış – varış noktası ve tarih kriterlerine göre uygun sefer arama
 
-🎫 Bilet İşlemleri:
+Koltuk Seçimi: Dinamik koltuk planı üzerinden koltuk seçimi
 
-Sefer arama
+Cinsiyet Kontrolü: Farklı cinsiyet yolcuların yan yana oturmasını önleyen sistem
 
-Koltuk seçme
+Bilet Satın Alma: Güvenli ödeme işlemleriyle bilet oluşturma
 
-Bilet satın alma
+PDF Bilet İndirme: Satın alınan biletlerin PDF formatında çıktısının alınabilmesi
 
-💳 Ödeme ve Kampanya Sistemi:
+Bilet Geçmişi: Önceki biletlerin görüntülenmesi
 
-Kupon desteği
+Bakiye Yönetimi: Hesap bakiyesi görüntüleme ve yönetme özellikleri
 
-Bakiye yönetimi
+🏢 Firma Yetkilisi Özellikleri
 
-🏢 Firma Yönetimi:
+Sefer Yönetimi: Yeni sefer oluşturma, mevcut seferleri düzenleme veya silme
 
-Firma bazlı yönetim paneli
+Otobüs Yönetimi: Farklı otobüs tiplerinin (2+1, 2+2) tanımlanması
 
-🧩 Veritabanı:
+Satış Takibi: Firma bazlı seferlerin satış durumlarını anlık izleme
 
-SQLite kullanımı
+Bilet Yönetimi: Satılan biletlerin görüntülenmesi ve kontrol edilmesi
 
-🐳 Kurulum:
+👨‍💼 Admin Özellikleri
 
-Docker ile kolay kurulum
+Kullanıcı Yönetimi: Tüm kullanıcıların listelenmesi, düzenlenmesi veya engellenmesi
+
+Firma Yönetimi: Yeni firma hesaplarını onaylama ve mevcut firmaları yönetme
+
+Sistem Kontrol Paneli: Genel istatistikler, sistem durumu ve yönetim işlemleri
+
+Veri Yönetimi: Veritabanı işlemleri, yedekleme ve raporlama
+
 
 🧩 Kullanılan Teknolojiler
 
