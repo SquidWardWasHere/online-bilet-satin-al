@@ -11,23 +11,17 @@ Proje, PHP, SQLite ve Docker teknolojileri kullanılarak geliştirilmiştir.
 
 👥Kullanıcı rolleri (admin/firma-admin/user)
 
-👤 Kullanıcı Özellikleri
+| # | Özellik Adı       |
+| - | ----------------- |
+| 1 | Hesap Yönetimi    |
+| 2 | Sefer Arama       |
+| 3 | Koltuk Seçimi     |
+| 4 | Cinsiyet Kontrolü |
+| 5 | Bilet Satın Alma  |
+| 6 | PDF Bilet İndirme |
+| 7 | Bilet Geçmişi     |
+| 8 | Bakiye Yönetimi   |
 
-●  Hesap Yönetimi
-
-●  Sefer Arama
-
-●  Koltuk Seçimi
-
-●  Cinsiyet Kontrolü
-
-●  Bilet Satın Alma
-
-●  PDF Bilet İndirme
-
-●  Bilet Geçmişi
-
-●  Bakiye Yönetimi
 
 🏢 Firma Yetkilisi Özellikleri
 
