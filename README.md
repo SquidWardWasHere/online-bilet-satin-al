@@ -13,7 +13,7 @@ Proje, PHP, SQLite ve Docker teknolojileri kullanılarak geliştirilmiştir.
 
 👤 Kullanıcı Özellikleri
 
-● Hesap Yönetimi: Kayıt olma, giriş yapma ve profil bilgilerini güncelleme işlemleri
+●  Hesap Yönetimi: Kayıt olma, giriş yapma ve profil bilgilerini güncelleme işlemleri
 
 ● Sefer Arama: Kalkış – varış noktası ve tarih kriterlerine göre uygun sefer arama
 
